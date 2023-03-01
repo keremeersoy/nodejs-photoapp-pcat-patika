@@ -1,0 +1,24 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT photo app ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keremeersoy/nodejs-photoapp-pcat-patika.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "nodejs"
+  ],
+  "author": "Kerem Ersoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keremeersoy/nodejs-photoapp-pcat-patika/issues"
+  },
+  "homepage": "https://github.com/keremeersoy/nodejs-photoapp-pcat-patika#readme"
+}
