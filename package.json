@@ -23,7 +23,9 @@
   },
   "homepage": "https://github.com/keremeersoy/nodejs-photoapp-pcat-patika#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
